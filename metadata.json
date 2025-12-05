@@ -1,0 +1,7 @@
+{
+  "name": "Tela motora atualizada  AleixoDrive",
+  "description": "Aplicativo de mobilidade exclusivo para o bairro Colônia Antônio Aleixo. Carros, Motos e Entregas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
